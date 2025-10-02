@@ -4,6 +4,10 @@ title: Home
 permalink: /
 ---
 
+<div style="text-align: center; margin-bottom: 2rem;">
+  <img src="/assets/sri_daruru.jpeg" alt="Srivatsava Daruru" style="width: 200px; height: 200px; border-radius: 50%; object-fit: cover; border: 3px solid #e0e0e0;">
+</div>
+
 # Bio
 
 Srivatsava Daruru is a researcher and machine learning leader whose work spans natural language processing, neuro-symbolic AI, and large-scale learning systems. He is currently Chief AI Officer at Exlens AI and was formerly Senior Manager of Machine Learning at ServiceNow, where he led research in retrieval-augmented generation (RAG), question answering, post-training optimization of large language models, and agentic workflows for conversational AI. His contributions shaped ServiceNow's generative AI strategy, including the company's first production-grade generative application, Genius Q&A.
