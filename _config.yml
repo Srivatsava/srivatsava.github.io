@@ -1,0 +1,27 @@
+title: "Srivatsava Daruru"
+description: "Research in NLP, neuro-symbolic AI, and trustworthy LLMs"
+url: ""  # set to https://<username>.github.io after publishing
+theme: minima
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+minima:
+  skin: auto
+
+author:
+  name: "Srivatsava Daruru"
+  email: "vatsava@gmail.com"
+
+# Navigation
+header_pages:
+  - index.md
+  - projects.md
+  - publications.md
+  - cv.md
+
+# Social
+social_links:
+  - { platform: github,  user_url: "https://github.com/<your-github-username>" }
+  - { platform: linkedin, user_url: "https://www.linkedin.com/in/<your-linkedin-handle>" }
+  - { platform: google_scholar, user_url: "https://scholar.google.com/citations?user=p1org9EAAAAJ&hl=en" }
